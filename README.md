@@ -16,7 +16,7 @@ Right now, I’m diving deep into **cloud technologies** with **AWS** to enhance
 
 ### 📝 Skills
 
-- **Languages**: Python, JavaScript, SQL
+- **Languages**: Python, JavaScript, Typescript, SQL
 - **Frameworks**: React, Django, Angular, Flask
 - **Databases**: MongoDB, MySQL, PostgreSQL
 - **Deployment**: Vercel, Heroku
