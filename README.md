@@ -4,27 +4,19 @@ Welcome to my GitHub corner of the internet! I’m a **Digital Advertising Techn
 
 ### 🚀 About Me
 
-I'm constantly working on enhancing my skills in **Python**, **JavaScript**, and **Data Visualization and management**, with a special focus on building end-to-end solutions that work both on the frontend and backend. Currently, I’m learning **AWS** to better understand cloud infrastructure, deployment, and systems!
+I'm constantly enhancing my skills in web technologies, with a special focus on building end-to-end solutions that work both on the front and backend — currently learning more about cloud technologies to better understand cloud infrastructure, deployment, and systems.
 
 ### 🛠️ What You'll Find Here
 
 This GitHub is my playground for tracking my journey in software development, learning new technologies, and sharing my progress. From building web apps to backend services, I keep it all here—warts and all! For the curious, you can check out all my projects [**here**](https://github.com/Nelly-ayebale?tab=repositories).
 
-### 💡 What I’m Currently Up To
-
-Right now, I’m diving deep into **cloud technologies** with **AWS** to enhance my knowledge of deployment, cloud infrastructure, databases, and API management. I’m also always refining my skills in **JavaScript frameworks** and **backend systems**.
-
 ### 📝 Skills
 
-- **Languages**: Python, JavaScript, Typescript, SQL
-- **Frameworks**: React, Django, Angular, Flask
-- **Databases**: MongoDB, MySQL, PostgreSQL
+- **Languages**: Python, JavaScript, Typescript, C#
+- **Libraries/Frameworks**: React.js, Django, Angular, Flask
+- **Databases**: Knowledge of SQL(MySQL, PostgreSQL), MongoDB
 - **Deployment**: Vercel, Heroku
-- **Tools**: Git, Docker (and learning AWS!)
-
-### 🌱 Always Growing
-
-I use this space not just to show off finished products but also to document my learning journey. Feel free to explore my work and follow along as I level up my skills!
+- **Version Control**: Git 
 
 ### 🤝 Let’s Connect
 
