@@ -4,13 +4,12 @@ Welcome to my GitHub corner of the internet! This GitHub is my playground for tr
 
 ### 📝 Skills
 
-- **Programming languages**: Python, Java, JavaScript, Typescript, C#
+- **Programming languages**: Python, Java, JavaScript
 - **Libraries/Frameworks**: React.js, Django, Angular, Flask
-- **Databases**: Knowledge of SQL, MongoDB
-- **Deployment**: Vercel, Heroku
+- **Other**: Knowledge of SQL, MongoDB
 - **Version Control**: Git 
 
-### 🤝 Let’s Connect
+### Let’s Connect
 
 If you want to collaborate, share ideas, or just chat:
 
